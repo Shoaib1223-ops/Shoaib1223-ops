@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Shoaib1223-ops
+- 👀 I’m interested in python, machine learining deep learning 
+- 🌱 I’m currently learning Ai 
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me shoaoibakhter@gmail.com
+- 😄 Pronouns: he/him
